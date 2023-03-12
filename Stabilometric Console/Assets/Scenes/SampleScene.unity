@@ -249,6 +249,10 @@ MonoBehaviour:
   rb: {fileID: 41877087}
   horizontalMultiplier: 1.7
   speedIncreasePerPoint: 0.5
+  receivedstring: 
+  test_data: {fileID: 0}
+  sensitivity: 0.01
+  datas: []
 --- !u!1 &126221218
 GameObject:
   m_ObjectHideFlags: 0
